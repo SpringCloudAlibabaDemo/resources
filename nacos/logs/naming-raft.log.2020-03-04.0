@@ -1,0 +1,30 @@
+2020-03-04 11:15:08,268 INFO initializing Raft sub-system
+
+2020-03-04 11:15:08,269 INFO raft notifier started
+
+2020-03-04 11:15:08,178 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.0.104","key":"192.168.0.104:0","lastRefTime":0,"servePort":0,"site":"unknown","weight":1}]
+
+2020-03-04 11:15:08,278 INFO finish loading all datums, size: 0 cost 10 ms.
+
+2020-03-04 11:15:08,280 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.0.104","key":"192.168.0.104:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2020-03-04 11:15:08,281 INFO cache loaded, datum count: 0, current term: 0
+
+2020-03-04 11:15:08,281 INFO finish to load data from disk, cost: 13 ms.
+
+2020-03-04 11:15:08,283 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2020-03-04 11:15:08,344 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2020-03-04 11:15:19,252 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2020-03-04 11:15:23,174 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.0.104","key":"192.168.0.104:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-03-04 11:15:23,174 INFO server list is updated, dead: 1, servers: [{"adWeight":0,"alive":false,"ip":"192.168.0.104","key":"192.168.0.104:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2020-03-04 11:15:23,174 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.0.104","key":"192.168.0.104:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-03-04 11:15:25,175 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@user-center
+
+2020-03-04 11:15:26,198 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.0.104","key":"192.168.0.104:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+

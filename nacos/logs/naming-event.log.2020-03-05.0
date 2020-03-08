@@ -1,0 +1,214 @@
+2020-03-05 09:43:13,709 INFO DEFAULT_GROUP@@user-center {SYNC} {IP-NEW} cluster: SZ, new ips size: 1, content: [192.168.0.104:8010:unknown:SZ_1.0_true_false_SZ]
+
+2020-03-05 09:43:13,712 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-center, ips: 192.168.0.104:8010_true,
+
+2020-03-05 09:50:01,938 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-center, ips: 192.168.0.104:8010_true,
+
+2020-03-05 09:50:33,774 INFO DEFAULT_GROUP@@content-center {SYNC} {IP-NEW} cluster: BJ, new ips size: 1, content: [192.168.0.104:8086:unknown:BJ_1.0_true_false_BJ]
+
+2020-03-05 09:50:33,774 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 192.168.0.104:8086_true,
+
+2020-03-05 10:00:39,211 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:8086@BJ@DEFAULT_GROUP@@content-center, region: unknown, msg: client timeout after 15000, last beat: 1583373624208
+
+2020-03-05 10:00:54,327 INFO DEFAULT_GROUP@@content-center {SYNC} {IP-DEAD} cluster: BJ, dead ips size: 1, content: [192.168.0.104:8086:unknown:BJ_1.0_false_false_BJ]
+
+2020-03-05 10:00:54,327 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 
+
+2020-03-05 10:01:29,311 INFO DEFAULT_GROUP@@content-center {SYNC} {IP-NEW} cluster: BJ, new ips size: 1, content: [192.168.0.104:8086:unknown:BJ_1.0_true_false_BJ]
+
+2020-03-05 10:01:29,311 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 192.168.0.104:8086_true,
+
+2020-03-05 10:26:59,621 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:8086@BJ@DEFAULT_GROUP@@content-center, region: unknown, msg: client timeout after 15000, last beat: 1583375204463
+
+2020-03-05 10:27:14,626 INFO DEFAULT_GROUP@@content-center {SYNC} {IP-DEAD} cluster: BJ, dead ips size: 1, content: [192.168.0.104:8086:unknown:BJ_1.0_false_false_BJ]
+
+2020-03-05 10:27:14,627 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 
+
+2020-03-05 10:28:00,884 INFO DEFAULT_GROUP@@user-center {SYNC} {IP-NEW} cluster: SZ, new ips size: 1, content: [192.168.0.104:8009:unknown:SZ_1.0_true_false_SZ]
+
+2020-03-05 10:28:00,884 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-center, ips: 192.168.0.104:8010_true,192.168.0.104:8009_true,
+
+2020-03-05 10:31:02,840 INFO DEFAULT_GROUP@@content-center {SYNC} {IP-NEW} cluster: BJ, new ips size: 1, content: [192.168.0.104:8086:unknown:BJ_1.0_true_false_BJ]
+
+2020-03-05 10:31:02,840 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 192.168.0.104:8086_true,
+
+2020-03-05 14:01:02,658 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:8086@BJ@DEFAULT_GROUP@@content-center, region: unknown, msg: client timeout after 15000, last beat: 1583388046480
+
+2020-03-05 14:01:17,666 INFO DEFAULT_GROUP@@content-center {SYNC} {IP-DEAD} cluster: BJ, dead ips size: 1, content: [192.168.0.104:8086:unknown:BJ_1.0_false_false_BJ]
+
+2020-03-05 14:01:17,667 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 
+
+2020-03-05 14:03:33,396 INFO DEFAULT_GROUP@@content-center {SYNC} {IP-NEW} cluster: BJ, new ips size: 1, content: [192.168.0.104:8086:unknown:BJ_1.0_true_false_BJ]
+
+2020-03-05 14:03:33,396 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 192.168.0.104:8086_true,
+
+2020-03-05 14:04:22,707 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:8086@BJ@DEFAULT_GROUP@@content-center, region: unknown, msg: client timeout after 15000, last beat: 1583388243202
+
+2020-03-05 14:04:37,734 INFO DEFAULT_GROUP@@content-center {SYNC} {IP-DEAD} cluster: BJ, dead ips size: 1, content: [192.168.0.104:8086:unknown:BJ_1.0_false_false_BJ]
+
+2020-03-05 14:04:37,734 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 
+
+2020-03-05 14:05:39,372 INFO DEFAULT_GROUP@@content-center {SYNC} {IP-NEW} cluster: BJ, new ips size: 1, content: [192.168.0.104:8086:unknown:BJ_1.0_true_false_BJ]
+
+2020-03-05 14:05:39,372 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 192.168.0.104:8086_true,
+
+2020-03-05 14:06:07,855 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:8086@BJ@DEFAULT_GROUP@@content-center, region: unknown, msg: client timeout after 15000, last beat: 1583388349151
+
+2020-03-05 14:06:22,859 INFO DEFAULT_GROUP@@content-center {SYNC} {IP-DEAD} cluster: BJ, dead ips size: 1, content: [192.168.0.104:8086:unknown:BJ_1.0_false_false_BJ]
+
+2020-03-05 14:06:22,859 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 
+
+2020-03-05 14:15:41,788 INFO DEFAULT_GROUP@@content-center {SYNC} {IP-NEW} cluster: BJ, new ips size: 1, content: [192.168.0.104:8086:unknown:BJ_1.0_true_false_BJ]
+
+2020-03-05 14:15:41,788 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 192.168.0.104:8086_true,
+
+2020-03-05 14:18:23,045 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:8086@BJ@DEFAULT_GROUP@@content-center, region: unknown, msg: client timeout after 15000, last beat: 1583389086599
+
+2020-03-05 14:18:38,053 INFO DEFAULT_GROUP@@content-center {SYNC} {IP-DEAD} cluster: BJ, dead ips size: 1, content: [192.168.0.104:8086:unknown:BJ_1.0_false_false_BJ]
+
+2020-03-05 14:18:38,053 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 
+
+2020-03-05 14:24:57,751 INFO DEFAULT_GROUP@@content-center {SYNC} {IP-NEW} cluster: BJ, new ips size: 1, content: [192.168.0.104:8086:unknown:BJ_1.0_true_false_BJ]
+
+2020-03-05 14:24:57,751 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 192.168.0.104:8086_true,
+
+2020-03-05 14:29:06,323 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 192.168.0.104:8086_true,
+
+2020-03-05 14:32:58,240 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:8086@BJ@DEFAULT_GROUP@@content-center, region: unknown, msg: client timeout after 15000, last beat: 1583389961146
+
+2020-03-05 14:33:13,244 INFO DEFAULT_GROUP@@content-center {SYNC} {IP-DEAD} cluster: BJ, dead ips size: 1, content: [192.168.0.104:8086:unknown:BJ_1.0_false_false_BJ]
+
+2020-03-05 14:33:13,244 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 
+
+2020-03-05 15:05:10,815 INFO DEFAULT_GROUP@@content-center {SYNC} {IP-NEW} cluster: BJ, new ips size: 1, content: [192.168.0.104:8086:unknown:BJ_1.0_true_false_BJ]
+
+2020-03-05 15:05:10,815 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 192.168.0.104:8086_true,
+
+2020-03-05 15:08:12,662 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 192.168.0.104:8086_true,
+
+2020-03-05 15:09:33,749 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:8086@BJ@DEFAULT_GROUP@@content-center, region: unknown, msg: client timeout after 15000, last beat: 1583392157481
+
+2020-03-05 15:09:34,653 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 192.168.0.104:8086_false,
+
+2020-03-05 15:09:39,444 INFO service: DEFAULT_GROUP@@content-center {POS} {IP-ENABLED} valid: 192.168.0.104:8086@BJ, region: unknown, msg: client beat ok
+
+2020-03-05 15:11:08,809 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:8086@BJ@DEFAULT_GROUP@@content-center, region: unknown, msg: client timeout after 15000, last beat: 1583392249462
+
+2020-03-05 15:11:09,449 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 192.168.0.104:8086_false,
+
+2020-03-05 15:11:14,223 INFO service: DEFAULT_GROUP@@content-center {POS} {IP-ENABLED} valid: 192.168.0.104:8086@BJ, region: unknown, msg: client beat ok
+
+2020-03-05 15:15:46,086 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 192.168.0.104:8086_true,
+
+2020-03-05 15:17:02,337 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 192.168.0.104:8086_true,
+
+2020-03-05 15:17:48,903 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:8010@SZ@DEFAULT_GROUP@@user-center, region: unknown, msg: client timeout after 15000, last beat: 1583392652208
+
+2020-03-05 15:17:48,903 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:8009@SZ@DEFAULT_GROUP@@user-center, region: unknown, msg: client timeout after 15000, last beat: 1583392649511
+
+2020-03-05 15:18:03,912 INFO DEFAULT_GROUP@@user-center {SYNC} {IP-DEAD} cluster: SZ, dead ips size: 2, content: [192.168.0.104:8010:unknown:SZ_1.0_false_false_SZ, 192.168.0.104:8009:unknown:SZ_1.0_false_false_SZ]
+
+2020-03-05 15:18:03,912 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-center, ips: 
+
+2020-03-05 15:18:08,404 INFO DEFAULT_GROUP@@user-center {SYNC} {IP-NEW} cluster: SZ, new ips size: 1, content: [192.168.0.104:8010:unknown:SZ_1.0_true_false_SZ]
+
+2020-03-05 15:18:08,404 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-center, ips: 192.168.0.104:8010_true,
+
+2020-03-05 15:18:53,915 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:8086@BJ@DEFAULT_GROUP@@content-center, region: unknown, msg: client timeout after 15000, last beat: 1583392717139
+
+2020-03-05 15:18:55,598 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 192.168.0.104:8086_false,
+
+2020-03-05 15:19:00,399 INFO service: DEFAULT_GROUP@@content-center {POS} {IP-ENABLED} valid: 192.168.0.104:8086@BJ, region: unknown, msg: client beat ok
+
+2020-03-05 15:20:32,509 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 192.168.0.104:8086_true,
+
+2020-03-05 15:23:21,571 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 192.168.0.104:8086_true,
+
+2020-03-05 15:23:59,036 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:8010@SZ@DEFAULT_GROUP@@user-center, region: unknown, msg: client timeout after 15000, last beat: 1583393021732
+
+2020-03-05 15:24:14,043 INFO DEFAULT_GROUP@@user-center {SYNC} {IP-DEAD} cluster: SZ, dead ips size: 1, content: [192.168.0.104:8010:unknown:SZ_1.0_false_false_SZ]
+
+2020-03-05 15:24:14,043 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-center, ips: 
+
+2020-03-05 16:22:54,834 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:8086@BJ@DEFAULT_GROUP@@content-center, region: unknown, msg: client timeout after 15000, last beat: 1583396557354
+
+2020-03-05 16:23:00,572 INFO DEFAULT_GROUP@@user-center {SYNC} {IP-NEW} cluster: SZ, new ips size: 1, content: [192.168.0.104:8010:unknown:SZ_1.0_true_false_SZ]
+
+2020-03-05 16:23:00,572 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-center, ips: 192.168.0.104:8010_true,
+
+2020-03-05 16:23:04,183 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 192.168.0.104:8086_false,
+
+2020-03-05 16:23:08,952 INFO service: DEFAULT_GROUP@@content-center {POS} {IP-ENABLED} valid: 192.168.0.104:8086@BJ, region: unknown, msg: client beat ok
+
+2020-03-05 16:23:44,844 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:8010@SZ@DEFAULT_GROUP@@user-center, region: unknown, msg: client timeout after 15000, last beat: 1583396609183
+
+2020-03-05 16:23:59,854 INFO DEFAULT_GROUP@@user-center {SYNC} {IP-DEAD} cluster: SZ, dead ips size: 1, content: [192.168.0.104:8010:unknown:SZ_1.0_false_false_SZ]
+
+2020-03-05 16:23:59,854 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-center, ips: 
+
+2020-03-05 16:31:54,937 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:8086@BJ@DEFAULT_GROUP@@content-center, region: unknown, msg: client timeout after 15000, last beat: 1583397099086
+
+2020-03-05 16:32:06,107 INFO DEFAULT_GROUP@@user-center {SYNC} {IP-NEW} cluster: SZ, new ips size: 1, content: [192.168.0.104:8010:unknown:SZ_1.0_true_false_SZ]
+
+2020-03-05 16:32:06,107 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-center, ips: 192.168.0.104:8010_true,
+
+2020-03-05 16:32:09,943 INFO DEFAULT_GROUP@@content-center {SYNC} {IP-DEAD} cluster: BJ, dead ips size: 1, content: [192.168.0.104:8086:unknown:BJ_1.0_false_false_BJ]
+
+2020-03-05 16:32:09,943 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 
+
+2020-03-05 16:32:27,294 INFO DEFAULT_GROUP@@content-center {SYNC} {IP-NEW} cluster: BJ, new ips size: 1, content: [192.168.0.104:8086:unknown:BJ_1.0_true_false_BJ]
+
+2020-03-05 16:32:27,294 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 192.168.0.104:8086_true,
+
+2020-03-05 16:33:03,357 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 192.168.0.104:8086_true,
+
+2020-03-05 17:26:55,433 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:8010@SZ@DEFAULT_GROUP@@user-center, region: unknown, msg: client timeout after 15000, last beat: 1583400395771
+
+2020-03-05 17:26:56,663 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-center, ips: 192.168.0.104:8010_false,
+
+2020-03-05 17:27:00,330 INFO service: DEFAULT_GROUP@@user-center {POS} {IP-ENABLED} valid: 192.168.0.104:8010@SZ, region: unknown, msg: client beat ok
+
+2020-03-05 17:27:42,125 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 192.168.0.104:8086_true,
+
+2020-03-05 17:28:46,712 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 192.168.0.104:8086_true,
+
+2020-03-05 17:29:25,876 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 192.168.0.104:8086_true,
+
+2020-03-05 17:30:05,468 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:8010@SZ@DEFAULT_GROUP@@user-center, region: unknown, msg: client timeout after 15000, last beat: 1583400590366
+
+2020-03-05 17:30:07,049 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-center, ips: 192.168.0.104:8010_false,
+
+2020-03-05 17:30:10,802 INFO service: DEFAULT_GROUP@@user-center {POS} {IP-ENABLED} valid: 192.168.0.104:8010@SZ, region: unknown, msg: client beat ok
+
+2020-03-05 17:30:33,280 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 192.168.0.104:8086_true,
+
+2020-03-05 17:31:45,488 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:8086@BJ@DEFAULT_GROUP@@content-center, region: unknown, msg: client timeout after 15000, last beat: 1583400688079
+
+2020-03-05 17:31:48,466 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 192.168.0.104:8086_false,
+
+2020-03-05 17:31:53,246 INFO service: DEFAULT_GROUP@@content-center {POS} {IP-ENABLED} valid: 192.168.0.104:8086@BJ, region: unknown, msg: client beat ok
+
+2020-03-05 17:42:27,170 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 192.168.0.104:8086_true,
+
+2020-03-05 17:44:53,037 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 192.168.0.104:8086_true,
+
+2020-03-05 17:46:10,656 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:8010@SZ@DEFAULT_GROUP@@user-center, region: unknown, msg: client timeout after 15000, last beat: 1583401551050
+
+2020-03-05 17:46:25,665 INFO DEFAULT_GROUP@@user-center {SYNC} {IP-DEAD} cluster: SZ, dead ips size: 1, content: [192.168.0.104:8010:unknown:SZ_1.0_false_false_SZ]
+
+2020-03-05 17:46:25,665 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-center, ips: 
+
+2020-03-05 17:50:56,712 INFO DEFAULT_GROUP@@user-center {SYNC} {IP-NEW} cluster: SZ, new ips size: 1, content: [192.168.0.104:8010:unknown:SZ_1.0_true_false_SZ]
+
+2020-03-05 17:50:56,712 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-center, ips: 192.168.0.104:8010_true,
+
+2020-03-05 17:51:30,790 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:8086@BJ@DEFAULT_GROUP@@content-center, region: unknown, msg: client timeout after 15000, last beat: 1583401872939
+
+2020-03-05 17:51:45,796 INFO DEFAULT_GROUP@@content-center {SYNC} {IP-DEAD} cluster: BJ, dead ips size: 1, content: [192.168.0.104:8086:unknown:BJ_1.0_false_false_BJ]
+
+2020-03-05 17:51:45,796 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@content-center, ips: 
+
+2020-03-05 21:04:09,121 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:8010@SZ@DEFAULT_GROUP@@user-center, region: unknown, msg: client timeout after 15000, last beat: 1583413433606
+
+2020-03-05 21:04:13,420 INFO service: DEFAULT_GROUP@@user-center {POS} {IP-ENABLED} valid: 192.168.0.104:8010@SZ, region: unknown, msg: client beat ok
+

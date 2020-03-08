@@ -1,0 +1,156 @@
+2020-03-07 12:05:46,798 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 12:05:47,541 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2020-03-07 12:05:47,560 INFO serviceName: DEFAULT_GROUP@@user-center changed, schedule push for: 172.16.240.73:54427, agent: Nacos-Java-Client:v1.1.1, key: 172.16.240.73,54427,268001542253000
+
+2020-03-07 12:05:47,560 INFO send udp packet: 172.16.240.73,54427,268001542253000
+
+2020-03-07 12:05:47,560 ERROR [NACOS-PUSH] failed to push data: {type=dom, data={"metadata":{},"dom":"DEFAULT_GROUP@@user-center","cacheMillis":10000,"useSpecifiedURL":false,"hosts":[],"name":"DEFAULT_GROUP@@user-center","checksum":"a84655974a2d69e9a7376a5282676d27","lastRefTime":1583553947560,"env":"","clusters":""}, lastRefTime=268001542253000} to client: 172.16.240.73, error: {}
+
+java.net.NoRouteToHostException: No route to host: Datagram send failed
+	at java.net.DualStackPlainDatagramSocketImpl.socketSend(Native Method)
+	at java.net.DualStackPlainDatagramSocketImpl.send(DualStackPlainDatagramSocketImpl.java:136)
+	at java.net.DatagramSocket.send(DatagramSocket.java:693)
+	at com.alibaba.nacos.naming.push.PushService.udpPush(PushService.java:579)
+	at com.alibaba.nacos.naming.push.PushService.access$500(PushService.java:51)
+	at com.alibaba.nacos.naming.push.PushService$4.run(PushService.java:184)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-03-07 12:05:49,549 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2020-03-07 12:05:49,549 INFO serviceName: DEFAULT_GROUP@@user-center changed, schedule push for: 172.16.240.73:54427, agent: Nacos-Java-Client:v1.1.1, key: 172.16.240.73,54427,268003531618700
+
+2020-03-07 12:05:49,549 INFO send udp packet: 172.16.240.73,54427,268003531618700
+
+2020-03-07 12:05:49,549 ERROR [NACOS-PUSH] failed to push data: {type=dom, data={"metadata":{},"dom":"DEFAULT_GROUP@@user-center","cacheMillis":10000,"useSpecifiedURL":false,"hosts":[{"valid":true,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"instanceId":"192.168.0.104#8010#SZ#DEFAULT_GROUP@@user-center","port":8010,"healthy":true,"ip":"192.168.0.104","clusterName":"SZ","weight":1.0,"ephemeral":true,"serviceName":"DEFAULT_GROUP@@user-center","enabled":true}],"name":"DEFAULT_GROUP@@user-center","checksum":"1d819bfb3491220b118e2a28513b2d8e","lastRefTime":1583553949549,"env":"","clusters":""}, lastRefTime=268003531618700} to client: 172.16.240.73, error: {}
+
+java.net.NoRouteToHostException: No route to host: Datagram send failed
+	at java.net.DualStackPlainDatagramSocketImpl.socketSend(Native Method)
+	at java.net.DualStackPlainDatagramSocketImpl.send(DualStackPlainDatagramSocketImpl.java:136)
+	at java.net.DatagramSocket.send(DatagramSocket.java:693)
+	at com.alibaba.nacos.naming.push.PushService.udpPush(PushService.java:579)
+	at com.alibaba.nacos.naming.push.PushService.access$500(PushService.java:51)
+	at com.alibaba.nacos.naming.push.PushService$4.run(PushService.java:184)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2020-03-07 12:05:50,551 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 14:17:23,963 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 14:17:25,503 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2020-03-07 14:17:29,482 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2020-03-07 14:17:29,483 INFO serviceName: DEFAULT_GROUP@@user-center changed, schedule push for: 172.16.240.73:54427, agent: Nacos-Java-Client:v1.1.1, key: 172.16.240.73,54427,275903476592000
+
+2020-03-07 14:17:29,483 INFO send udp packet: 172.16.240.73,54427,275903476592000
+
+2020-03-07 14:17:39,484 INFO retry to push data, key: 172.16.240.73,54427,275903476592000
+
+2020-03-07 14:17:39,484 INFO send udp packet: 172.16.240.73,54427,275903476592000
+
+2020-03-07 14:17:49,487 INFO retry to push data, key: 172.16.240.73,54427,275903476592000
+
+2020-03-07 14:17:49,487 WARN max re-push times reached, retry times 2, key: 172.16.240.73,54427,275903476592000
+
+2020-03-07 14:24:34,017 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2020-03-07 14:24:39,017 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 14:24:49,023 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2020-03-07 14:24:54,030 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 22:25:14,844 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2020-03-07 22:25:25,538 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 22:34:55,338 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 22:40:20,390 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 22:40:24,572 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 22:41:15,588 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 22:41:30,605 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 22:42:28,587 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 22:45:45,633 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 22:45:48,937 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 22:46:05,638 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 22:46:20,645 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 22:46:32,396 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 22:47:02,149 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 22:47:35,720 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 22:47:50,727 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 22:51:07,231 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 22:51:32,224 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 22:52:15,761 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 22:52:30,769 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 22:52:42,804 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 22:53:08,435 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 22:54:25,783 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 22:54:40,786 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 22:55:42,823 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 22:56:05,802 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 22:56:10,446 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 22:57:30,821 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 22:57:45,828 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 22:58:46,825 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 22:59:25,843 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 22:59:35,276 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 23:00:15,851 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 23:00:30,857 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 23:01:06,053 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 23:13:22,256 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 23:13:47,807 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 23:26:31,487 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-07 23:26:31,488 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2020-03-07 23:26:32,653 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2020-03-07 23:26:33,409 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+

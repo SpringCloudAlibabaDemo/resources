@@ -1,0 +1,18 @@
+2020-03-04 11:15:26,220 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2020-03-04 11:18:06,209 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2020-03-04 11:18:06,210 INFO serviceName: DEFAULT_GROUP@@user-center changed, schedule push for: 172.16.240.52:62886, agent: Nacos-Java-Client:v1.0.0, key: 172.16.240.52,62886,5941455789300
+
+2020-03-04 11:18:06,210 INFO send udp packet: 172.16.240.52,62886,5941455789300
+
+2020-03-04 11:18:06,216 INFO received ack: {"type": "push-ack", "lastRefTime":"5941455789300", "data":""} from: 172.16.240.52:, cost: 62886 ms, unacked: 6, total push: 0
+
+2020-03-04 11:18:10,145 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2020-03-04 11:18:10,145 INFO serviceName: DEFAULT_GROUP@@user-center changed, schedule push for: 172.16.240.52:62886, agent: Nacos-Java-Client:v1.0.0, key: 172.16.240.52,62886,5945391885600
+
+2020-03-04 11:18:10,145 INFO send udp packet: 172.16.240.52,62886,5945391885600
+
+2020-03-04 11:18:10,148 INFO received ack: {"type": "push-ack", "lastRefTime":"5945391885600", "data":""} from: 172.16.240.52:, cost: 62886 ms, unacked: 3, total push: 0
+

@@ -1,0 +1,222 @@
+2020-03-08 10:36:33,195 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-08 10:36:33,444 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2020-03-08 12:00:50,252 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2020-03-08 12:00:56,748 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2020-03-08 13:52:07,034 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2020-03-08 13:52:12,029 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-08 13:52:19,316 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2020-03-08 13:52:25,153 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-08 13:53:57,043 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-08 13:54:05,175 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-08 13:56:17,064 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-08 13:56:21,191 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-08 13:57:02,071 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-08 13:57:17,080 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-08 14:03:14,854 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-08 14:03:37,128 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-08 14:03:52,136 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-08 14:04:06,782 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-08 14:22:54,925 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-08 14:46:53,872 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-08 14:47:14,723 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-08 14:47:29,742 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-08 14:50:20,478 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-08 14:50:20,482 INFO serviceName: DEFAULT_GROUP@@content-center changed, schedule push for: 172.16.240.68:59262, agent: Nacos-Java-Client:v1.0.0, key: 172.16.240.68,59262,364274524611600
+
+2020-03-08 14:50:20,482 INFO send udp packet: 172.16.240.68,59262,364274524611600
+
+2020-03-08 14:50:20,492 INFO received ack: {"type": "push-ack", "lastRefTime":"364274524611600", "data":""} from: 172.16.240.68:, cost: 59262 ms, unacked: 10, total push: 0
+
+2020-03-08 14:51:14,878 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-08 14:51:28,140 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-08 14:51:28,140 INFO serviceName: DEFAULT_GROUP@@content-center changed, schedule push for: 172.16.240.68:60497, agent: Nacos-Java-Client:v1.0.0, key: 172.16.240.68,60497,364342185816800
+
+2020-03-08 14:51:28,140 INFO send udp packet: 172.16.240.68,60497,364342185816800
+
+2020-03-08 14:51:28,144 INFO received ack: {"type": "push-ack", "lastRefTime":"364342185816800", "data":""} from: 172.16.240.68:, cost: 60497 ms, unacked: 4, total push: 0
+
+2020-03-08 14:51:32,033 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-08 14:51:32,033 INFO serviceName: DEFAULT_GROUP@@content-center changed, schedule push for: 172.16.240.68:60497, agent: Nacos-Java-Client:v1.0.0, key: 172.16.240.68,60497,364346078627500
+
+2020-03-08 14:51:32,033 INFO send udp packet: 172.16.240.68,60497,364346078627500
+
+2020-03-08 14:51:32,035 INFO received ack: {"type": "push-ack", "lastRefTime":"364346078627500", "data":""} from: 172.16.240.68:, cost: 60497 ms, unacked: 2, total push: 0
+
+2020-03-08 14:52:59,918 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2020-03-08 14:52:59,919 INFO serviceName: DEFAULT_GROUP@@user-center changed, schedule push for: 172.16.240.68:60497, agent: Nacos-Java-Client:v1.0.0, key: 172.16.240.68,60497,364433964202700
+
+2020-03-08 14:52:59,919 INFO send udp packet: 172.16.240.68,60497,364433964202700
+
+2020-03-08 14:52:59,921 INFO received ack: {"type": "push-ack", "lastRefTime":"364433964202700", "data":""} from: 172.16.240.68:, cost: 60497 ms, unacked: 2, total push: 0
+
+2020-03-08 14:53:08,344 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2020-03-08 14:53:08,344 INFO serviceName: DEFAULT_GROUP@@user-center changed, schedule push for: 172.16.240.68:60497, agent: Nacos-Java-Client:v1.0.0, key: 172.16.240.68,60497,364442389249900
+
+2020-03-08 14:53:08,344 INFO send udp packet: 172.16.240.68,60497,364442389249900
+
+2020-03-08 14:53:08,344 INFO serviceName: DEFAULT_GROUP@@user-center changed, schedule push for: 172.16.240.68:63711, agent: Nacos-Java-Client:v1.0.0, key: 172.16.240.68,63711,364442389249900
+
+2020-03-08 14:53:08,344 INFO send udp packet: 172.16.240.68,63711,364442389249900
+
+2020-03-08 14:53:08,345 INFO received ack: {"type": "push-ack", "lastRefTime":"364442389249900", "data":""} from: 172.16.240.68:, cost: 60497 ms, unacked: 1, total push: 1
+
+2020-03-08 14:53:08,347 INFO received ack: {"type": "push-ack", "lastRefTime":"364442389249900", "data":""} from: 172.16.240.68:, cost: 63711 ms, unacked: 3, total push: 0
+
+2020-03-08 14:53:10,818 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2020-03-08 14:53:10,818 INFO serviceName: DEFAULT_GROUP@@user-center changed, schedule push for: 172.16.240.68:60497, agent: Nacos-Java-Client:v1.0.0, key: 172.16.240.68,60497,364444863614500
+
+2020-03-08 14:53:10,818 INFO send udp packet: 172.16.240.68,60497,364444863614500
+
+2020-03-08 14:53:10,818 INFO serviceName: DEFAULT_GROUP@@user-center changed, schedule push for: 172.16.240.68:63711, agent: Nacos-Java-Client:v1.0.0, key: 172.16.240.68,63711,364444863614500
+
+2020-03-08 14:53:10,818 INFO send udp packet: 172.16.240.68,63711,364444863614500
+
+2020-03-08 14:53:10,820 INFO received ack: {"type": "push-ack", "lastRefTime":"364444863614500", "data":""} from: 172.16.240.68:, cost: 63711 ms, unacked: 2, total push: 1
+
+2020-03-08 14:53:10,820 INFO received ack: {"type": "push-ack", "lastRefTime":"364444863614500", "data":""} from: 172.16.240.68:, cost: 60497 ms, unacked: 2, total push: 0
+
+2020-03-08 15:06:40,083 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-08 15:06:40,084 INFO serviceName: DEFAULT_GROUP@@content-center changed, schedule push for: 172.16.240.68:63711, agent: Nacos-Java-Client:v1.0.0, key: 172.16.240.68,63711,365254129155100
+
+2020-03-08 15:06:40,084 INFO send udp packet: 172.16.240.68,63711,365254129155100
+
+2020-03-08 15:06:40,086 INFO received ack: {"type": "push-ack", "lastRefTime":"365254129155100", "data":""} from: 172.16.240.68:, cost: 63711 ms, unacked: 2, total push: 0
+
+2020-03-08 15:06:55,091 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-08 15:06:55,091 INFO serviceName: DEFAULT_GROUP@@content-center changed, schedule push for: 172.16.240.68:63711, agent: Nacos-Java-Client:v1.0.0, key: 172.16.240.68,63711,365269136714200
+
+2020-03-08 15:06:55,091 INFO send udp packet: 172.16.240.68,63711,365269136714200
+
+2020-03-08 15:06:55,093 INFO received ack: {"type": "push-ack", "lastRefTime":"365269136714200", "data":""} from: 172.16.240.68:, cost: 63711 ms, unacked: 2, total push: 0
+
+2020-03-08 15:08:04,954 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-08 15:08:04,954 INFO serviceName: DEFAULT_GROUP@@content-center changed, schedule push for: 172.16.240.68:52970, agent: Nacos-Java-Client:v1.0.0, key: 172.16.240.68,52970,365338999570200
+
+2020-03-08 15:08:04,954 INFO send udp packet: 172.16.240.68,52970,365338999570200
+
+2020-03-08 15:08:04,954 INFO serviceName: DEFAULT_GROUP@@content-center changed, schedule push for: 172.16.240.68:63711, agent: Nacos-Java-Client:v1.0.0, key: 172.16.240.68,63711,365338999570200
+
+2020-03-08 15:08:04,954 INFO send udp packet: 172.16.240.68,63711,365338999570200
+
+2020-03-08 15:08:04,956 INFO received ack: {"type": "push-ack", "lastRefTime":"365338999570200", "data":""} from: 172.16.240.68:, cost: 63711 ms, unacked: 2, total push: 1
+
+2020-03-08 15:08:04,957 INFO received ack: {"type": "push-ack", "lastRefTime":"365338999570200", "data":""} from: 172.16.240.68:, cost: 52970 ms, unacked: 3, total push: 0
+
+2020-03-08 15:12:25,130 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-08 15:12:25,131 INFO serviceName: DEFAULT_GROUP@@content-center changed, schedule push for: 172.16.240.68:63711, agent: Nacos-Java-Client:v1.0.0, key: 172.16.240.68,63711,365599175999900
+
+2020-03-08 15:12:25,131 INFO send udp packet: 172.16.240.68,63711,365599175999900
+
+2020-03-08 15:12:25,133 INFO received ack: {"type": "push-ack", "lastRefTime":"365599175999900", "data":""} from: 172.16.240.68:, cost: 63711 ms, unacked: 2, total push: 0
+
+2020-03-08 15:12:35,202 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-08 15:12:35,203 INFO serviceName: DEFAULT_GROUP@@content-center changed, schedule push for: 172.16.240.68:61750, agent: Nacos-Java-Client:v1.0.0, key: 172.16.240.68,61750,365609248203100
+
+2020-03-08 15:12:35,203 INFO send udp packet: 172.16.240.68,61750,365609248203100
+
+2020-03-08 15:12:35,205 INFO received ack: {"type": "push-ack", "lastRefTime":"365609248203100", "data":""} from: 172.16.240.68:, cost: 61750 ms, unacked: 2, total push: 0
+
+2020-03-08 15:12:35,205 INFO serviceName: DEFAULT_GROUP@@content-center changed, schedule push for: 172.16.240.68:63711, agent: Nacos-Java-Client:v1.0.0, key: 172.16.240.68,63711,365609248203100
+
+2020-03-08 15:12:35,205 INFO send udp packet: 172.16.240.68,63711,365609248203100
+
+2020-03-08 15:12:35,207 INFO received ack: {"type": "push-ack", "lastRefTime":"365609248203100", "data":""} from: 172.16.240.68:, cost: 63711 ms, unacked: 2, total push: 0
+
+2020-03-08 15:12:37,441 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-08 15:12:37,441 INFO serviceName: DEFAULT_GROUP@@content-center changed, schedule push for: 172.16.240.68:61750, agent: Nacos-Java-Client:v1.0.0, key: 172.16.240.68,61750,365611486789800
+
+2020-03-08 15:12:37,441 INFO send udp packet: 172.16.240.68,61750,365611486789800
+
+2020-03-08 15:12:37,441 INFO serviceName: DEFAULT_GROUP@@content-center changed, schedule push for: 172.16.240.68:63711, agent: Nacos-Java-Client:v1.0.0, key: 172.16.240.68,63711,365611486789800
+
+2020-03-08 15:12:37,441 INFO send udp packet: 172.16.240.68,63711,365611486789800
+
+2020-03-08 15:12:37,442 INFO received ack: {"type": "push-ack", "lastRefTime":"365611486789800", "data":""} from: 172.16.240.68:, cost: 61750 ms, unacked: 1, total push: 1
+
+2020-03-08 15:12:37,443 INFO received ack: {"type": "push-ack", "lastRefTime":"365611486789800", "data":""} from: 172.16.240.68:, cost: 63711 ms, unacked: 2, total push: 0
+
+2020-03-08 15:19:30,198 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2020-03-08 15:19:30,198 INFO serviceName: DEFAULT_GROUP@@user-center changed, schedule push for: 172.16.240.68:61750, agent: Nacos-Java-Client:v1.0.0, key: 172.16.240.68,61750,366024244141300
+
+2020-03-08 15:19:30,198 INFO send udp packet: 172.16.240.68,61750,366024244141300
+
+2020-03-08 15:19:30,200 INFO received ack: {"type": "push-ack", "lastRefTime":"366024244141300", "data":""} from: 172.16.240.68:, cost: 61750 ms, unacked: 2, total push: 0
+
+2020-03-08 15:19:45,207 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2020-03-08 15:19:45,207 INFO serviceName: DEFAULT_GROUP@@user-center changed, schedule push for: 172.16.240.68:61750, agent: Nacos-Java-Client:v1.0.0, key: 172.16.240.68,61750,366039252577800
+
+2020-03-08 15:19:45,207 INFO send udp packet: 172.16.240.68,61750,366039252577800
+
+2020-03-08 15:19:45,209 INFO received ack: {"type": "push-ack", "lastRefTime":"366039252577800", "data":""} from: 172.16.240.68:, cost: 61750 ms, unacked: 2, total push: 0
+
+2020-03-08 15:22:34,791 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2020-03-08 15:22:34,791 INFO serviceName: DEFAULT_GROUP@@user-center changed, schedule push for: 172.16.240.68:49964, agent: Nacos-Java-Client:v1.0.0, key: 172.16.240.68,49964,366208836611500
+
+2020-03-08 15:22:34,791 INFO send udp packet: 172.16.240.68,49964,366208836611500
+
+2020-03-08 15:22:34,791 INFO serviceName: DEFAULT_GROUP@@user-center changed, schedule push for: 172.16.240.68:61750, agent: Nacos-Java-Client:v1.0.0, key: 172.16.240.68,61750,366208836611500
+
+2020-03-08 15:22:34,791 INFO send udp packet: 172.16.240.68,61750,366208836611500
+
+2020-03-08 15:22:34,793 INFO received ack: {"type": "push-ack", "lastRefTime":"366208836611500", "data":""} from: 172.16.240.68:, cost: 61750 ms, unacked: 2, total push: 1
+
+2020-03-08 15:22:34,797 INFO received ack: {"type": "push-ack", "lastRefTime":"366208836611500", "data":""} from: 172.16.240.68:, cost: 49964 ms, unacked: 6, total push: 0
+
+2020-03-08 15:24:25,269 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2020-03-08 15:24:25,272 INFO serviceName: DEFAULT_GROUP@@user-center changed, schedule push for: 172.16.240.68:61750, agent: Nacos-Java-Client:v1.0.0, key: 172.16.240.68,61750,366319315652000
+
+2020-03-08 15:24:25,272 INFO send udp packet: 172.16.240.68,61750,366319315652000
+
+2020-03-08 15:24:30,269 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-08 15:24:35,274 INFO retry to push data, key: 172.16.240.68,61750,366319315652000
+
+2020-03-08 15:24:35,274 INFO send udp packet: 172.16.240.68,61750,366319315652000
+
+2020-03-08 15:24:40,288 INFO DEFAULT_GROUP@@user-center is changed, add it to push queue.
+
+2020-03-08 15:24:45,274 INFO DEFAULT_GROUP@@content-center is changed, add it to push queue.
+
+2020-03-08 15:24:45,275 INFO retry to push data, key: 172.16.240.68,61750,366319315652000
+
+2020-03-08 15:24:45,275 WARN max re-push times reached, retry times 2, key: 172.16.240.68,61750,366319315652000
+

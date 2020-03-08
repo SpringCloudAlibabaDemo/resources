@@ -1,0 +1,10 @@
+2020-03-04 11:15:25,215 INFO DEFAULT_GROUP@@user-center {SYNC} {IP-NEW} cluster: SZ, new ips size: 1, content: [192.168.0.104:8010:unknown:SZ_1.0_true_false_SZ]
+
+2020-03-04 11:15:25,218 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-center, ips: 192.168.0.104:8010_true,
+
+2020-03-04 11:18:05,208 INFO {POS} {IP-DISABLED} valid: 192.168.0.104:8010@SZ@DEFAULT_GROUP@@user-center, region: unknown, msg: client timeout after 15000, last beat: 1583291870108
+
+2020-03-04 11:18:05,704 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-center, ips: 192.168.0.104:8010_false,
+
+2020-03-04 11:18:09,144 INFO service: DEFAULT_GROUP@@user-center {POS} {IP-ENABLED} valid: 192.168.0.104:8010@SZ, region: unknown, msg: client beat ok
+
